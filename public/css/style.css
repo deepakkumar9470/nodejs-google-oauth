@@ -1,0 +1,39 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p {
+    margin: 10px 0 !important;
+  }
+  
+  .login-container {
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+  }
+
+.mern-head{
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: coral;
+}
+.fa-small {
+    font-size: 16px !important;
+  }
+  
+  .btn-float {
+    float: left;
+    margin-right: 10px;
+  }
+.myedit{
+    font-size: 1rem !important;
+   
+}
+.mytrash{
+    font-size: 1rem !important;
+}
+.img-small{
+    width: 180px;
+}
